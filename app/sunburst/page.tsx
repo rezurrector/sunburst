@@ -6,7 +6,7 @@ import SunburstChart from "@/components/charts/sunburst"
 export default function Page() {
   return (
     <div>
-      <h1>About</h1>
+      <h1>Sunburst</h1>
       <Button>Click me</Button>
 
       <SunburstChart />

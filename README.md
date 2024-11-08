@@ -19,11 +19,14 @@ npm run test
 # e2e Test
 
 ```
+npx playwright install
 npm run test:e2e
 npx playwright show-report
 ```
 
 # API
+[Swagger](https://swagger.io/docs/specification/v3_0/basic-structure/
+)
 
 # File Structure
 
@@ -44,7 +47,6 @@ stories/
 ├─ component
 styles/
 ├─ globals.css
-__tests__/page.test.tsx
 ```
 
 # Packages, Libs, Utils
